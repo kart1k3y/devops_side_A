@@ -2,7 +2,9 @@ name: CI with Debug
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
+      - ishak_side_A
   pull_request:
     branches: [ main ]
 
