@@ -24,4 +24,4 @@ jobs:
 
       - name: Run Python script with debugger
         run: |
-          python -m pdb calculator.py
+          python -m pdb message.py
