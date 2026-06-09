@@ -1,1 +1,8 @@
-print(Hey i am ishak!)
+print("*")
+print("**")
+print("***")
+print("****")
+print("*****")
+print("Pattern print (~_~)")
+
+
