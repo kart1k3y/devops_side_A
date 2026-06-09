@@ -1,2 +1,2 @@
 # devops_side_A
-vaibbs was here
+vaibbs was never here
