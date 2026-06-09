@@ -1,1 +1,1 @@
-print(Hey i am ishak!)
+print("Hey i am ishak!")
